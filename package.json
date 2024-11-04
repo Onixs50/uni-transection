@@ -1,0 +1,12 @@
+{
+  "name": "uni",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "clear": "^0.1.0",
+    "ethers": "^6.8.1"
+  }
+}
