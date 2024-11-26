@@ -6,9 +6,9 @@ import clear from 'clear';
 import boxen from 'boxen';
 
 const RPC_URLS = [
-    'https://endpoints.omniatech.io/v1/unichain/sepolia/public',
-    'http://5.9.111.188:8549',
-    'https://sepolia.unichain.org'
+    'https://sepolia.unichain.org',
+       'http://5.9.111.188:8549',
+    'https://endpoints.omniatech.io/v1/unichain/sepolia/public'
 ];
 
 const CHAIN_ID = 1301;
